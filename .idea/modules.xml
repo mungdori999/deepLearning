@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/squardeerror.iml" filepath="$PROJECT_DIR$/.idea/squardeerror.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/deeplearning-learn.iml" filepath="$PROJECT_DIR$/.idea/deeplearning-learn.iml" />
     </modules>
   </component>
 </project>
